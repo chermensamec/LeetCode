@@ -1,1 +1,1 @@
-# This show my preparation for Yandex algorithmic interview
+# This repository show my preparation for Yandex algorithmic interview
